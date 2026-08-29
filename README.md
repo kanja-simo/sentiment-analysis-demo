@@ -2,7 +2,11 @@
 
 # Sentiment Analysis Demo
 
-[![Launch Application](https://img.shields.io/badge/🚀%20Launch%20Application-Streamlit-red?style=for-the-badge)](https://sentiment-analysis-demo-tzrxakbvnn9h8n4a5w9wqm.streamlit.app/)
+[![Launch Application](https://img.shields.io/badge/🚀%20Launch%20Application-Streamlit-red?style=for-the-badge)](https://kanja-sentiment-analysis-demo.streamlit.app/)
+
+## About the Project
+
+This project is a machine-learning-based sentiment analysis application built with Python and Streamlit.
 
 ## About the Project
 
