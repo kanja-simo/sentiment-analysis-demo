@@ -1,5 +1,12 @@
 \# Sentiment Analysis Tool
 
+# Sentiment Analysis Demo
+
+[![Launch Application](https://img.shields.io/badge/🚀%20Launch%20Application-Streamlit-red?style=for-the-badge)](https://sentiment-analysis-demo-tzrxakbvnn9h8n4a5w9wqm.streamlit.app/)
+
+## About the Project
+
+This application performs sentiment analysis using machine learning.
 
 
 A text classification tool that predicts whether a piece of text expresses positive or negative sentiment, built as a foundational NLP project ahead of applying my skills to citizen/government communications analysis.
